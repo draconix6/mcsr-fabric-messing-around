@@ -1,0 +1,4 @@
+classTweaker  v1  named
+accessible method net/minecraft/client/render/chunk/ChunkBuilder$BuiltChunk isChunkNonEmpty (Lnet/minecraft/util/math/BlockPos;)Z
+accessible field net/minecraft/client/render/chunk/ChunkBuilder$BuiltChunk neighborPositions [Lnet/minecraft/util/math/BlockPos$Mutable;
+accessible field net/minecraft/world/gen/ChunkRandom sampleCount I

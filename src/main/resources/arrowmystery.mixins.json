@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "drx.arrowmystery.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"ExampleMixin",
+		"HugeFungusMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
